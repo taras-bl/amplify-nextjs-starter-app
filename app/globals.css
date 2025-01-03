@@ -13,9 +13,11 @@
   --callout-border-rgb: 172, 175, 176;
   --card-rgb: #6649AE;
   --card-border-rgb: 131, 134, 135;
-}
+}https://
+community.atlassian.com/t5/Data-Center-discussions/Release-Announcement-Atlassian-DC-Helm-Charts-1-21-0/td-p/2784080
 
-@media (prefers-color-scheme: dark) {
+
+  @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
     --background-start-rgb: 0, 0, 0;
